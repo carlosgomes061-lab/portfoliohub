@@ -1,0 +1,10 @@
+# Segredos e credenciais
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
